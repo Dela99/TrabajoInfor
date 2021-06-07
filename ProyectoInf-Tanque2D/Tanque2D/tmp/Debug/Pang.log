@@ -1,0 +1,27 @@
+﻿  Interaccion.cpp
+  ListaProyectiles.cpp
+  ListaTanquesEnemigos.cpp
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\ListaTanquesEnemigos.cpp(53,9): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+  Mundo.cpp
+  Principal.cpp
+  Proyectil.cpp
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\Proyectil.cpp(11,14): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\Proyectil.cpp(15,14): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\Proyectil.cpp(18,14): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\Proyectil.cpp(29,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\Proyectil.cpp(34,25): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\Proyectil.cpp(35,45): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\Proyectil.cpp(35,25): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Suelo.cpp
+  tanque.cpp
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\tanque.cpp(7,12): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\tanque.cpp(78,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\tanque.cpp(84,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\tanque.cpp(89,49): error C2661: 'Proyectil::Proyectil': ninguna función sobrecargada acepta 2 argumentos
+  tanqueEnemigo.cpp
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\tanqueEnemigo.cpp(13,12): warning C4305: '=': truncamiento de 'double' a 'float'
+  tanqueJugador.cpp
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\tanqueJugador.cpp(8,12): warning C4305: '=': truncamiento de 'double' a 'float'
+  Generando código...
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\Interaccion.cpp(46): warning C4715: 'Interaccion::colision': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Alejandro\PracticasInfor\ProyectoInf-Tanque2D\Tanque2D\src\Interaccion.cpp(57): warning C4715: 'Interaccion::colision': no todas las rutas de acceso de control devuelven un valor
